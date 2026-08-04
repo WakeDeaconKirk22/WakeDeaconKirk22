@@ -1,7 +1,7 @@
 <div align="center">
 
 
-#Kennedy Kirk
+# Kennedy Kirk
 
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/duero2000/duero2000/raw/main/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
@@ -50,7 +50,11 @@ ___
 
 
 ## Featured Projects
-
+| LAM-Museum-Mexican-Figurines  | Fraud Detection Project | Text to Speech Pipeline |
+|---|---|---|
+| A web-based tool for labeling Mexican clay figurine images for machine learning and data analysis. |Developed a GRAPH-BERT model to detect fraudulent credit card transactions by analyzing graph relationships and identifying anomalous patterns. |Built a application through Microsoft's Azure AI services by building and monitoring an end-to-end speech processing pipeline.|
+| React, JavaScript, Vite, Flask, HTML/CSS, JSON, Git |Python, PyTorch, GRAPH-BERT, Graph Neural Networks, Machine Learning, Deep Learning | Azure AI Speech, Azure AI Language, Azure CLI, Azure Application Insights, Python, Speech SDK, Text-to-Speech, Azure Monitor, KQL |
+| [ Repo](https://github.com/TJ302/LAM-Museum-Mexican-Figurines/blob/main/label_server.py) | [ Repo](https://github.com/WakeDeaconKirk22/FraudDetectionProject) | [Repo](https://github.com/WakeDeaconKirk22/TextToSpeechPipeline) |
 
 ## How I contribute to the team
 
