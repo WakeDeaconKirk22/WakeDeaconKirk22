@@ -3,7 +3,7 @@
 
 # Kennedy Kirk
 
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/Kirk_Kennedy_Resume.docx)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/Kirk_Kennedy_Re[...]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-m-kirk/)
 
 
@@ -52,13 +52,32 @@ ___
 ## Featured Projects
 | LAM-Museum-Mexican-Figurines  | Fraud Detection Project | Text to Speech Pipeline |
 |---|---|---|
-| A web-based tool for labeling Mexican clay figurine images for machine learning and data analysis. |Developed a GRAPH-BERT model to detect fraudulent credit card transactions by analyzing graph relationships and identifying anomalous patterns. |Built a application through Microsoft's Azure AI services by building and monitoring an end-to-end speech processing pipeline.|
-| React, JavaScript, Vite, Flask, HTML/CSS, JSON, Git |Python, PyTorch, GRAPH-BERT, Graph Neural Networks, Machine Learning, Deep Learning | Azure AI Speech, Azure AI Language, Azure CLI, Azure Application Insights, Python, Speech SDK, Text-to-Speech, Azure Monitor, KQL |
-| [ Repo](https://github.com/TJ302/LAM-Museum-Mexican-Figurines/blob/main/label_server.py) | [ Repo](https://github.com/WakeDeaconKirk22/FraudDetectionProject) | [Repo](https://github.com/WakeDeaconKirk22/TextToSpeechPipeline) |
+| A web-based tool for labeling Mexican clay figurine images for machine learning and data analysis. |Developed a GRAPH-BERT model to detect fraudulent credit card transactions by analyzing graph [...]
+| React, JavaScript, Vite, Flask, HTML/CSS, JSON, Git |Python, PyTorch, GRAPH-BERT, Graph Neural Networks, Machine Learning, Deep Learning | Azure AI Speech, Azure AI Language, Azure Ap[...]
+| [ Repo](https://github.com/TJ302/LAM-Museum-Mexican-Figurines/blob/main/label_server.py) | [ Repo](https://github.com/WakeDeaconKirk22/FraudDetectionProject) | [Repo](https://github.com/WakeDeac[...]
+
+## Featured Video
+
+Embed a video file stored in this repository (GitHub will serve the raw file):
+
+```html
+<video controls width="720">
+  <source src="https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/media/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download: <a href="https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/media/demo.mp4">Demo video</a>
+</video>
+```
+
+Replace `media/demo.mp4` with the actual path to your video file in the repo (for example `media/my-demo.mp4`).
+
+Alternatively, link directly to the file or an external host (YouTube/Vimeo):
+
+[Watch the demo video](https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/media/demo.mp4)
+
 
 ## How I contribute to the team
-I contribute by combining technical expertise with a strong understanding of business challenges. As organizations increasingly rely on AI, machine learning and data decision making, I bring experience using tools such as Python, SQL ,AWS and Pytorch to develop analytical solutions to real-world problem. 
+I contribute by combining technical expertise with a strong understanding of business challenges. As organizations increasingly rely on AI, machine learning and data decision making, I bring experienc[...]
 
-My projects have allowed me to apply these skills to areas such as fraud detection, computer vision and predictive analytics. I approach problems by first understanding what the client needs, then using data and technology to develop solutions that can create measurable value. 
+My projects have allowed me to apply these skills to areas such as fraud detection, computer vision and predictive analytics. I approach problems by first understanding what the client needs, then usi[...]
 
 I aim to contribute as a professional who can bridge the gap between technical teams and business stakeholders, translating complex data into practical and actionable data
+
