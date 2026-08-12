@@ -56,6 +56,35 @@ ___
 | React, JavaScript, Vite, Flask, HTML/CSS, JSON, Git |Python, PyTorch, GRAPH-BERT, Graph Neural Networks, Machine Learning, Deep Learning | Azure AI Speech, Azure AI Language, Azure CLI, Azure Application Insights, Python, Speech SDK, Text-to-Speech, Azure Monitor, KQL |
 | [ Repo](https://github.com/TJ302/LAM-Museum-Mexican-Figurines/blob/main/label_server.py) | [ Repo](https://github.com/WakeDeaconKirk22/FraudDetectionProject) | [Repo](https://github.com/WakeDeaconKirk22/TextToSpeechPipeline) |
 
+## How I Create Value
+
+I approach analytics from both sides of the problem:
+
+```text
+                    BUSINESS PROBLEM
+                           ↓
+                  Understand the Need
+                           ↓
+                    Collect & Explore
+                         DATA
+                           ↓
+                 Analyze & Model
+                           ↓
+                  AI / ML / ANALYTICS
+                           ↓
+                  Generate Insights
+                           ↓
+                  Business Decision
+                           ↓
+                    MEASURABLE VALUE
+
+``` text
+What problem are we actually trying to solve?
+What does the data tell us?
+Which analytical approach makes the most sense?
+How can technology improve the decision-making process?
+How can the result create measurable value?
+```
 
 
 ## How I contribute to the team
