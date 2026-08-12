@@ -50,16 +50,18 @@ ___
 ## Featured Projects
 | LAM-Museum-Mexican-Figurines  | Fraud Detection Project | Text to Speech Pipeline |
 |---|---|---|
-| A web-based tool for labeling Mexican clay figurine images for machine learning and data analysis. |Developed a GRAPH-BERT model to detect fraudulent credit card transactions by analyzing graph [...]
-| React, JavaScript, Vite, Flask, HTML/CSS, JSON, Git |Python, PyTorch, GRAPH-BERT, Graph Neural Networks, Machine Learning, Deep Learning | Azure AI Speech, Azure AI Language, Azure Ap[...]
-| [ Repo](https://github.com/TJ302/LAM-Museum-Mexican-Figurines/blob/main/label_server.py) | [ Repo](https://github.com/WakeDeaconKirk22/FraudDetectionProject) | [Repo](https://github.com/WakeDeac[...]
+| LAM-Museum-Mexican-Figurines  | Fraud Detection Project | Text to Speech Pipeline |
+|---|---|---|
+| A web-based tool for labeling Mexican clay figurine images for machine learning and data analysis. |Developed a GRAPH-BERT model to detect fraudulent credit card transactions by analyzing graph relationships and identifying anomalous patterns. |Built a application through Microsoft's Azure AI services by building and monitoring an end-to-end speech processing pipeline.|
+| React, JavaScript, Vite, Flask, HTML/CSS, JSON, Git |Python, PyTorch, GRAPH-BERT, Graph Neural Networks, Machine Learning, Deep Learning | Azure AI Speech, Azure AI Language, Azure CLI, Azure Application Insights, Python, Speech SDK, Text-to-Speech, Azure Monitor, KQL |
+| [ Repo](https://github.com/TJ302/LAM-Museum-Mexican-Figurines/blob/main/label_server.py) | [ Repo](https://github.com/WakeDeaconKirk22/FraudDetectionProject) | [Repo](https://github.com/WakeDeaconKirk22/TextToSpeechPipeline) |
 
 
 
 ## How I contribute to the team
-I contribute by combining technical expertise with a strong understanding of business challenges. As organizations increasingly rely on AI, machine learning and data decision making, I bring experienc[...]
+I contribute by combining technical expertise with a strong understanding of business challenges. As organizations increasingly rely on AI, machine learning and data decision making, I bring experience using tools such as Python, SQL ,AWS and Pytorch to develop analytical solutions to real-world problem. 
 
-My projects have allowed me to apply these skills to areas such as fraud detection, computer vision and predictive analytics. I approach problems by first understanding what the client needs, then usi[...]
+My projects have allowed me to apply these skills to areas such as fraud detection, computer vision and predictive analytics. I approach problems by first understanding what the client needs, then using data and technology to develop solutions that can create measurable value. 
 
 I aim to contribute as a professional who can bridge the gap between technical teams and business stakeholders, translating complex data into practical and actionable data
 
