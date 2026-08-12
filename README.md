@@ -4,7 +4,7 @@
 # Kennedy Kirk
 
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/Kirk_Kennedy_Resume.docx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kennedy-m-kirk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-m-kirk/)
 
 
 ### Transformer who can organize data into meaningful insights | Graduate Student in Business Analytics program at Wake Forest University | Computer Science Graduate
@@ -57,6 +57,8 @@ ___
 | [ Repo](https://github.com/TJ302/LAM-Museum-Mexican-Figurines/blob/main/label_server.py) | [ Repo](https://github.com/WakeDeaconKirk22/FraudDetectionProject) | [Repo](https://github.com/WakeDeaconKirk22/TextToSpeechPipeline) |
 
 ## How I contribute to the team
+I contribute by combining technical expertise with a strong understanding of business challenges. As organizations increasingly rely on AI, machine learning and data decision making, I bring experience using tools such as Python, SQL ,AWS and Pytorch to develop analytical solutions to real-world problem. 
 
+My projects have allowed me to apply these skills to areas such as fraud detection, computer vision and predictive analytics. I approach problems by first understanding what the client needs, then using data and technology to develop solutions that can create measurable value. 
 
-
+I aim to contribute as a professional who can bridge the gap between technical teams and business stakeholders, translating complex data into practical and actionable data
