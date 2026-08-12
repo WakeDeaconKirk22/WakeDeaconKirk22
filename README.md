@@ -12,7 +12,7 @@
 
 </div>
 
-##Currently 
+## Currently 
 ``` text
   - Completing my M.S in Business Analytics @Wake Forest University
   - Building machine learning and AI applications
