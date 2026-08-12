@@ -54,22 +54,6 @@ ___
 | React, JavaScript, Vite, Flask, HTML/CSS, JSON, Git |Python, PyTorch, GRAPH-BERT, Graph Neural Networks, Machine Learning, Deep Learning | Azure AI Speech, Azure AI Language, Azure Ap[...]
 | [ Repo](https://github.com/TJ302/LAM-Museum-Mexican-Figurines/blob/main/label_server.py) | [ Repo](https://github.com/WakeDeaconKirk22/FraudDetectionProject) | [Repo](https://github.com/WakeDeac[...]
 
-## Featured Video
-
-Embed a video file stored in this repository (GitHub will serve the raw file):
-
-```html
-<video controls width="720">
-  <source src="https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/media/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag. Download: <a href="https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/media/demo.mp4">Demo video</a>
-</video>
-```
-
-Replace `media/demo.mp4` with the actual path to your video file in the repo (for example `media/my-demo.mp4`).
-
-Alternatively, link directly to the file or an external host (YouTube/Vimeo):
-
-[Watch the demo video](https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/media/demo.mp4)
 
 
 ## How I contribute to the team
