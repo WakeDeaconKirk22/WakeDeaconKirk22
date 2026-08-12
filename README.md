@@ -3,8 +3,8 @@
 
 # Kennedy Kirk
 
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/duero2000/duero2000/raw/main/Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/Kirk_Kennedy_Resume.docx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kennedy-m-kirk)
 
 
 ### Transformer who can organize data into meaningful insights | Graduate Student in Business Analytics program at Wake Forest University | Computer Science Graduate
