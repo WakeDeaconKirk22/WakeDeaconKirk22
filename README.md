@@ -1,22 +1,9 @@
-<div align="center">
-
-
-# Kennedy Kirk
-
-
-<div align="center">
 
 # Kennedy Kirk
 
 [![Google Video](https://img.shields.io/badge/Google%20Video-Watch%20My%20Introduction-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/videos/d/1h22EmLfKGebyI3unemoP3p9-WR4bI_pUB96_9Jb5vjo/play?usp=sharing)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/WakeDeaconKirk22/WakeDeaconKirk22/raw/main/Kirk_Kennedy_Resume.docx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-m-kirk/)
-
-### Transformer who can organize data into meaningful insights | Graduate Student in Business Analytics program at Wake Forest University | Computer Science Graduate
-<br>
-
-</div>
-
 
 ### Transformer who can organize data into meaningful insights | Graduate Student in Business Analytics program at Wake Forest University | Computer Science Graduate
 <br>
