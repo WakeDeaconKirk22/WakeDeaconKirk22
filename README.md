@@ -60,7 +60,7 @@ ___
 
 I approach analytics from both sides of the problem:
 
-```text
+
                     BUSINESS PROBLEM
                            ↓
                   Understand the Need
@@ -78,7 +78,7 @@ I approach analytics from both sides of the problem:
                            ↓
                     MEASURABLE VALUE
 
-``` text
+
 What problem are we actually trying to solve?
 What does the data tell us?
 Which analytical approach makes the most sense?
